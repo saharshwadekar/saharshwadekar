@@ -42,3 +42,8 @@ class AboutMe
 
 };
 ```
+
+- 📫 How to reach out to me:<br>
+  <t>Email: saharshwadekar@gmail.com<br>
+  <t>Linkedin: https://github.com/saharshwadekar <br>
+  
