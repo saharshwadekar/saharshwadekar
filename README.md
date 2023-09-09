@@ -2,7 +2,7 @@
 
 <img aligh="center" src="https://github.com/saharshwadekar/saharshwadekar/blob/6606cf07cc4583447bfc505612c47100e9542865/contents/Saharsh%20Wadekar.gif"/>
 
-<img align="center" height="250" width="375" alt="" src="https://github.com/saharshwadekar/saharshwadekar/blob/8c4d295fbe755ee7e806e129d0aecb1c64319242/contents/Mylogo.svg" />
+
 
 
 ```cpp
