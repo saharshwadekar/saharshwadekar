@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```cpp
+
 class AboutMe
 {
     private:
@@ -36,7 +37,9 @@ class AboutMe
         }
 
         string getMyFutureGoal(void){
-            return "Striving to embrace the limitless possibilities of technology, I aim to be at the forefront of innovation, shaping a future where the only   constant is boundless progress.";
+            return "Striving to embrace the limitless possibilities of technology,
+                    I aim to be at the forefront of innovation,
+                    shaping a future where the only constant is boundless progress.";
         }
 
 };
