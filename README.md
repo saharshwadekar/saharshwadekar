@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="center" height="250" width="375" alt="" src="https://github.com/saharshwadekar/saharshwadekar/blob/8c4d295fbe755ee7e806e129d0aecb1c64319242/contents/Mylogo.svg" />
+
+
 ```cpp
 
 class AboutMe
