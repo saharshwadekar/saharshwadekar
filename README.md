@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/saharshwadekar/saharshwadekar/blob/6606cf07cc4583447bfc505612c47100e9542865/contents/Saharsh%20Wadekar.gif"/>
 <!--
 **saharshwadekar/saharshwadekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
