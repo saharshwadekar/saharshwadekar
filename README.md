@@ -1,9 +1,3 @@
-### Hi there Welcome to My Lobby. I'm👋
-
-
-https://github.com/saharshwadekar/saharshwadekar/assets/99036174/90aa108b-e6ea-46dc-95b3-74d169a300bc
-
-
 
 ```cpp
 
