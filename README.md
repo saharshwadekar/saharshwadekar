@@ -1,7 +1,7 @@
 ### Hi there Welcome to My Lobby. I'm👋
 
-<img aligh="center" src="https://github.com/saharshwadekar/saharshwadekar/blob/6606cf07cc4583447bfc505612c47100e9542865/contents/Saharsh%20Wadekar.gif"/>
 
+https://github.com/saharshwadekar/saharshwadekar/assets/99036174/90aa108b-e6ea-46dc-95b3-74d169a300bc
 
 
 
