@@ -15,7 +15,7 @@ class AboutMe
         {
             string greetingMSG = "Very Warm WELCOME TO MY LOBBY.";
             cout << greetingMSG << endl;
-        }![GithubBackgournd](https://github.com/saharshwadekar/saharshwadekar/assets/99036174/bdbdbb1b-294d-40ab-bc51-0002bd2efb95)
+        }
 
         vector<vector<string>> getMyPreciousSkills(void){
             vector<string> languages = {"C", "C++", "PHP", "Python"};
