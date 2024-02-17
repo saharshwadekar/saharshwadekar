@@ -1,19 +1,21 @@
-
-![LinkedInBackground1](https://github.com/saharshwadekar/saharshwadekar/assets/99036174/8a83f3b0-8f71-452a-9e77-6a9eec399895)
-
-
-![github template](https://github.com/saharshwadekar/saharshwadekar/assets/99036174/93f43ca3-fe3b-4992-98b1-e70185c91b8e)
-
+![GithubBackgournd](https://github.com/saharshwadekar/saharshwadekar/assets/99036174/66acab80-6ba6-4ac8-b9ed-f8a117e1f605)
 ```cpp
 class AboutMe
 {
     private:
         string MyName;
         int MyAge;
+        
 
     public:
         AboutMe(string name = "Saharsh Wadekar" , int age = 21): MyName(name),MyAge(age) {}
         virtual ~AboutMe() {}
+
+        void greetEveryOne(void)
+        {
+            string greetingMSG = "Very Warm WELCOME TO MY LOBBY.";
+            cout << greetingMSG << endl;
+        }![GithubBackgournd](https://github.com/saharshwadekar/saharshwadekar/assets/99036174/bdbdbb1b-294d-40ab-bc51-0002bd2efb95)
 
         vector<vector<string>> getMyPreciousSkills(void){
             vector<string> languages = {"C", "C++", "PHP", "Python"};
@@ -30,4 +32,3 @@ class AboutMe
 
 };
 ```
-  
