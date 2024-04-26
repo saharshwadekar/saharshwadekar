@@ -8,7 +8,7 @@ class AboutMe
         map<string, string> contactMe;
 
     public:
-        AboutMe(string name = "Saharsh Wadekar" , int age = 21): MyName(name),MyAge(age) {}
+        AboutMe(string name = "Saharsh Wadekar" , int age = 21): MyName(name), MyAge(age) {}
         virtual ~AboutMe() {}
 
         void greetEveryOne(void)
