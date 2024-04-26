@@ -18,10 +18,10 @@ class AboutMe
         }
 
         vector<vector<string>> getMyPreciousSkills(void){
-            vector<string> languages = {"C", "C++", "PHP", "Python"};
+            vector<string> languages       = {"C", "C++", "PHP", "Python"};
             vector<string> webTechnologies = {"HTML5", "CSS3"};
             vector<string> dataScienceTool = {"NumPy", "Pandas", "Matplotlib"};
-            vector<string> currentFocus = {"Data Science", "AI", "Machine Learning"};
+            vector<string> currentFocus    = {"Data Science", "AI", "Machine Learning"};
 
             return {languages, webTechnologies, dataScienceTool, currentFocus};
         }
