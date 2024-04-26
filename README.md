@@ -26,12 +26,14 @@ class AboutMe
             return {languages, webTechnologies, dataScienceTool, currentFocus};
         }
 
-        void ContactMe(void)
+        map<string,string> ContactMe(void)
         {
             contactMe["Twitter"]  = "https://twitter.com/saharshwadekar/";
             contactMe["LinkedIn"] = "https://linkedin.com/saharshwadekar/";
             contactMe["Github"]   = "https://github.com/saharshwadekar/";
             contactMe["Mail"]     = "saharshwadekar@gmail.com";
+
+            return contactMe;
         }
 
         string getMyFutureGoal(void){
