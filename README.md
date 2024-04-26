@@ -5,7 +5,7 @@ class AboutMe
     private:
         string MyName;
         int MyAge;
-        
+        map<string, string> contactMe;
 
     public:
         AboutMe(string name = "Saharsh Wadekar" , int age = 21): MyName(name),MyAge(age) {}
@@ -24,6 +24,14 @@ class AboutMe
             vector<string> currentFocus = {"Data Science", "AI", "Machine Learning"};
 
             return {languages, webTechnologies, dataScienceTool, currentFocus};
+        }
+
+        void ContactMe(void)
+        {
+            contactMe["Twitter"]  = "https://twitter.com/saharshwadekar/";
+            contactMe["LinkedIn"] = "https://linkedin.com/saharshwadekar/";
+            contactMe["Github"]   = "https://github.com/saharshwadekar/";
+            contactMe["Mail"]     = "saharshwadekar@gmail.com";
         }
 
         string getMyFutureGoal(void){
