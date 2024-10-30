@@ -8,7 +8,7 @@ class AboutMe
         map<string, string> contactMe;
 
     public:
-        AboutMe(string name = "Saharsh Wadekar" , int age = 21): MyName(name), MyAge(age) {}
+        AboutMe(string name = "Saharsh Wadekar" , int age = 22): MyName(name), MyAge(age) {}
         virtual ~AboutMe() {}
 
         void greetEveryOne(void)
@@ -19,9 +19,9 @@ class AboutMe
 
         vector<vector<string>> getMyPreciousSkills(void){
             vector<string> languages       = {"C", "C++", "PHP", "Python"};
-            vector<string> webTechnologies = {"HTML5", "CSS3"};
-            vector<string> dataScienceTool = {"NumPy", "Pandas", "Matplotlib"};
-            vector<string> currentFocus    = {"Data Science", "AI", "Machine Learning"};
+            vector<string> webTechnologies = {"HTML5", "CSS3", "NextJS"};
+            vector<string> dataScienceTool = {"NumPy", "Pandas", "Matplotlib", "Tensorflow"};
+            vector<string> currentFocus    = {"Machine Learning", "Web Development", "Application Developer"};
 
             return {languages, webTechnologies, dataScienceTool, currentFocus};
         }
